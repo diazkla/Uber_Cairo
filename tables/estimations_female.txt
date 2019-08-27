@@ -1,0 +1,19 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+		Distance	Distance	Distance	Distance	Distance	Distance
+VARIABLES	LABELS		Men	Women		Men	Women
+							
+treatment1_female	Subsidy 25% * Female	-11.031					
+		[15.875]					
+treatment2_female	Subsidy 50% * Female				0.728		
+					[14.175]		
+treatment1	Subsidy 25%	13.836*	2.805	13.836*			
+		[7.741]	[11.659]	[8.078]			
+treatment2	Subsidy 50%				6.151	6.879	6.151
+					[7.313]	[11.969]	[7.349]
+female	Female	-3.309			-3.309		
+		[10.764]			[10.448]		
+Constant	Constant	42.252***	38.943***	42.252***	42.252***	38.943***	42.252***
+		[5.522]	[7.773]	[5.762]	[5.360]	[8.840]	[5.387]
+							
+Observations		150	36	114	165	44	121
+R-squared		0.030	0.002	0.026	0.007	0.008	0.006

@@ -1,0 +1,19 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+		Distance	Distance	Distance	Distance	Distance	Distance
+VARIABLES	LABELS		Searching	Not Searching		Searching	Not Searching
+							
+treatment1_look_for_work	Subsidy 25% * Searching	9.413					
+		[15.590]					
+treatment2_look_for_work	Subsidy 50% * Searching				11.513		
+					[13.638]		
+treatment1	Subsidy 25%	9.174	18.587	9.174			
+		[7.839]	[14.432]	[7.648]			
+treatment2	Subsidy 50%				2.827	14.339	2.827
+					[7.567]	[11.160]	[7.624]
+look_for_work	Searching	-7.151			-7.151		
+		[10.805]			[10.430]		
+Constant	Constant	43.263***	36.113***	43.263***	43.263***	36.113***	43.263***
+		[5.543]	[9.933]	[5.408]	[5.351]	[8.806]	[5.391]
+							
+Observations		150	38	112	165	53	112
+R-squared		0.023	0.044	0.013	0.011	0.031	0.001
